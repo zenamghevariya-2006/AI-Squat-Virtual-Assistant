@@ -1,7 +1,0 @@
-pose_landmarker_full.task
-__pycache__/
-*.pyc
-.venv/
-venv/
-.idea/
-.vscode/
