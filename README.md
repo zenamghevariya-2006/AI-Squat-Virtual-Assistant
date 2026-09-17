@@ -1,2 +1,3 @@
-# AI-Squat-Virtual-Assistant
-AI-based real-time squat coach using MediaPipe, OpenCV and voice feedback.
+git add README.md
+git commit -m "Add project README"
+git push
