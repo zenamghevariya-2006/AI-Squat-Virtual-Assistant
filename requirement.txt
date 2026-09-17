@@ -1,4 +1,0 @@
-opencv-python
-mediapipe
-pyttsx3
-numpy
